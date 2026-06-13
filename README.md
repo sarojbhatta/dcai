@@ -1,5 +1,9 @@
-# dcai
-Research Projects in Data-Centric AI
+### Research Projects in Data-Centric AI
 
+Some of these work include:
 
-### Work-in-Progress -> projects will be updated here soon!!
+- Near Duplicate Detection
+- PU Learning
+- CleanLab
+- Data Synthesis
+- Data Quality Check
